@@ -9,5 +9,9 @@
 
 ![2](https://github.com/MohammadRakib-8/Treasure_Collector_Game/assets/160373128/88cabb98-318d-4513-b5b8-f00fb7fb05f7)
 
+# Video
+
+https://github.com/MohammadRakib-8/Treasure_Collector_Game/assets/160373128/6039ebda-a453-4f86-b538-8e07552877b0
+
 
 
