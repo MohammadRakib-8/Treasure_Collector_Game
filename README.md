@@ -1,5 +1,5 @@
-# Treasure_Collector_Game
-"This is My First Game. In this game Navigate the maze with arrow keys and spacebar, avoiding enemies and collecting coins. Reach goals with teleporters, refill lives with health packs, and get instant feedback. An enjoyable OpenGL/C++ adventure for maze fans."
+![image](https://github.com/MohammadRakib-8/Treasure_Collector_Game/assets/160373128/d3644080-343d-46f3-9ef6-abf49a344059)# Treasure_Collector_Game
+"This is My First Game. In this game Navigate the maze with arrow keys and spacebar, avoiding enemies and collecting coins. Reach goals with teleporters, refill lives with health packs, and get instant feedback. Embark on an exciting journey through mazes with our immersive OpenGL/C++ experience, perfect for maze enthusiasts!
 
 # ScreenShots
 
