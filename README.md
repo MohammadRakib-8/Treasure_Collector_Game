@@ -14,7 +14,7 @@
 
 https://github.com/MohammadRakib-8/Treasure_Collector_Game/assets/160373128/7c8d63ad-1bbd-40f3-a205-e3fe5ecca60d
 
-# LICENSE
+# License
     Copyright (C) 2024  Mohammad Rakib
 
     This program is free software: you can redistribute it and/or modify
