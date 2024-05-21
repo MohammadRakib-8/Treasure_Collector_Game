@@ -5,6 +5,7 @@
 To run a project made with OpenGL and C++, you need several dependencies:
 
 OpenGL Library: Core graphics library for rendering.
+
 GLFW or SDL: For window creation and input handling.
 GLEW or GLAD: For managing OpenGL extensions.
 GLM: For mathematics operations, such as vectors and matrices.
