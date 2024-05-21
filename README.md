@@ -7,10 +7,15 @@ To run a project made with OpenGL and C++, you need several dependencies:
 OpenGL Library: Core graphics library for rendering.
 
 GLFW or SDL: For window creation and input handling.
+
 GLEW or GLAD: For managing OpenGL extensions.
+
 GLM: For mathematics operations, such as vectors and matrices.
+
 C++ Compiler: A standard C++ compiler like GCC, Clang, or MSVC.
+
 Build System: Tools like CMake for managing the build process.
+
 Development Environment: An IDE like Visual Studio, Code::Blocks, or an editor like VSCode.
 
 Ensure these dependencies are correctly installed and configured in your development environment to compile and run your OpenGL project efficiently.
