@@ -14,7 +14,20 @@
 
 https://github.com/MohammadRakib-8/Treasure_Collector_Game/assets/160373128/7c8d63ad-1bbd-40f3-a205-e3fe5ecca60d
 
+# LICENSE
+    Copyright (C) 2024  Mohammad Rakib
 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
